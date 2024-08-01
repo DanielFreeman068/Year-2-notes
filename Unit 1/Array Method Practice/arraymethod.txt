@@ -1,2 +1,4 @@
 We use Arrays because they are required and pivotal in every website, database, web applications...etc
 For our immediate use Arrays are required to easily populate websiteis
+
+TERNARIES - {conditional ? truePath : falsePath}
