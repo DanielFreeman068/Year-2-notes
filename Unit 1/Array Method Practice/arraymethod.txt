@@ -2,3 +2,13 @@ We use Arrays because they are required and pivotal in every website, database, 
 For our immediate use Arrays are required to easily populate websiteis
 
 TERNARIES - {conditional ? truePath : falsePath}
+
+SPREAD OPERATOR - ... will iterate through and add all values from an array-like object
+book = {
+    title: 'coding',
+    pages: 123
+}
+bookv2 = {
+    ...book,
+    pages: 140
+}
