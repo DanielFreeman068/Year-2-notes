@@ -38,3 +38,14 @@ ANATOMY OF .Map() - let newArray - people.map((person) => {
 
  Filter() - filter is how you can remove certain items from your array. it will go through each item and compare them to the conditional that you set up, true gets added false does not
  - it does not alter the array
+
+ .every() - checks to make sure that every value meets the conditional
+ .some() - this is similar to .every but instead of checking all it checks if there are any that are trueas long as one is true this will return true
+ .reduce() - is a method that adds to an output, it finds the accumulation of numbers. This does nothing for non-number values and is very useful for creating updated numbers of items
+      const array = [2,4,6,8,10]
+      array.reduce((accumulator, currentValue, currentIndex, array) => {
+         //code
+      }, 20)
+      accumulator is used as a total, array gives the whole array, currentIndex is the index positioning currentValue is the value 
+      index and array are both optional
+      20 is the optional starting value and is outside the callback function to set the total value so that you can start at any value
