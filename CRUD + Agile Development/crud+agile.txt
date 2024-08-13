@@ -1,0 +1,26 @@
+Agile Development - Requirements, Design, Develop, Test, Deploy
+This development is currently the most used version across the world and as the name implies, this form of development is flexible, can be used on any project, and focuses heavily on user experience and client collaboration.
+Values - individuals and interactions
+ - instead of focusing on the project and what needs to be done you can focus on the team and how they do IT
+  - if you have a happy team and they are all working together very well then the product will turn out better
+   - this also goes with the client, if you have a good relationship with the customer the project has a better chance for success
+Working Software
+ - while testing and creating your project you should make it available to everyone
+  - many older companies would spend their time creating rendered images of the site and typing up instructions on how to use the site
+   - you should instead have it up so that people can see and use it while push out consistent
+Customer collaboration
+ - by keeping constant communication with clients you can ensure that you are creating what they want to receive and what will be best for users
+  - this will also avoid large changes or unfortunate miscommunications at the end of the project
+Responding to Change
+ - unlike other forms of design, agile is based around the idea that at any point the entire project and scope can changes
+  - prople's needs, modern designs, software and the team you are working with change constantly and your projects needs to be able to change with all of that
+12 Principles
+ - your highest priority is to satisfy the customer through early and continuous delivery of valuable software
+  - welcome changing requirements, even late in development. agile processes harness change for the customer's competitive advantage
+   - deliver working software frequently from a couple of weeks, to a couple of months, and as needed
+    - business people and developers must work together daily throughout the project
+     - build projects around motivated individuals. give them the environment and suppport they need, and trust them to get the job done
+      - the most efficient and effective method of conveying information to and within a development team is face-to-face conversation
+       - working software is the primary measure of progress
+        - agile processes promote sustainable development. the sponsors, developers, and users should be able to maintain a constant pace indefinitely
+         - continuous attention to technical excellence and good design enhnaces agility
